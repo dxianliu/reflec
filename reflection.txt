@@ -1,0 +1,4 @@
+reflect- visual
+It clearly shows the branchs and which branch isn't reachable.
+If we merge them, both the commit will be combined together. The diagram shows the path of the commit and which commit will show up on the merged branch.
+git automatic merging might not work as you intended it to, since there are two version and it doesnt know which one you want, merging manually solves that problem but might be time-consuming.
